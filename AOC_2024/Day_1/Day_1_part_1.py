@@ -7,7 +7,7 @@ inputFile = open("./inputFile.txt", "r")
 
 varleft = []
 varright = []
-
+print(inputFile)
 for line in inputFile:
 	print(line)
 	matches = re.findall(r"\d+", line)
