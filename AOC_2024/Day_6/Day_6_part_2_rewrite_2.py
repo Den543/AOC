@@ -197,8 +197,8 @@ def genPrintOutput(thisInput):
 
 
 
-#checkOne()
-checkAll()
+checkOne()
+#checkAll()
 #genPrintOutput()
 print(looped)
 
